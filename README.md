@@ -6,7 +6,7 @@ This project involves analyzing the results of an A/B test conducted by an e-com
 ### Part I - Probability
 ### Part II - A/B Test
 ### Part III - Regression
-##Introduction
+## Introduction
 A/B tests are commonly used by data analysts and data scientists to compare the performance of different versions of a webpage or application. In this project, we will explore the results of an A/B test conducted by an e-commerce website. The aim is to determine if the new page leads to more conversions, if the old page should be retained, or if the experiment should be extended for further analysis.
 
 ## Part I - Probability
